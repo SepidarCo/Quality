@@ -25,3 +25,4 @@ D:\SepidarCo\Quality\ArchitecturePolicies\obj\Debug\ArchitecturePolicies.csproj.
 D:\SepidarCo\Quality\ArchitecturePolicies\obj\Debug\ArchitecturePolicies.csproj.CopyComplete
 D:\SepidarCo\Quality\ArchitecturePolicies\obj\Debug\Sepidar.ArchitecturePolicies.dll
 D:\SepidarCo\Quality\ArchitecturePolicies\obj\Debug\Sepidar.ArchitecturePolicies.pdb
+D:\SepidarCo\Quality\ArchitecturePolicies\obj\Debug\ArchitecturePolicies.csprojAssemblyReference.cache

@@ -21,7 +21,6 @@ D:\SepidarCo\Quality\CodeGenerator\bin\Sepidar.Framework.dll
 D:\SepidarCo\Quality\CodeGenerator\bin\Sepidar.Sql.dll
 D:\SepidarCo\Quality\CodeGenerator\bin\Sepidar.Framework.pdb
 D:\SepidarCo\Quality\CodeGenerator\bin\Sepidar.Sql.pdb
-D:\SepidarCo\Quality\CodeGenerator\obj\Debug\CodeGenerator.csprojAssemblyReference.cache
 D:\SepidarCo\Quality\CodeGenerator\obj\Debug\CodeGenerator.AssemblyInfoInputs.cache
 D:\SepidarCo\Quality\CodeGenerator\obj\Debug\CodeGenerator.AssemblyInfo.cs
 D:\SepidarCo\Quality\CodeGenerator\obj\Debug\CodeGenerator.csproj.CoreCompileInputs.cache

@@ -25,3 +25,4 @@ D:\SepidarCo\Quality\ProjectSetup\obj\Debug\ProjectSetup.csproj.CoreCompileInput
 D:\SepidarCo\Quality\ProjectSetup\obj\Debug\ProjectSetup.csproj.CopyComplete
 D:\SepidarCo\Quality\ProjectSetup\obj\Debug\Sepidar.ProjectSetup.dll
 D:\SepidarCo\Quality\ProjectSetup\obj\Debug\Sepidar.ProjectSetup.pdb
+D:\SepidarCo\Quality\ProjectSetup\obj\Debug\ProjectSetup.csprojAssemblyReference.cache
