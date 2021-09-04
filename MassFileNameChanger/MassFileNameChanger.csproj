@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName>SAK</SccProjectName>
+    <SccProvider>SAK</SccProvider>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccLocalPath>SAK</SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>   
+    <AssemblyName>Sepidar.MassFileNameChanger</AssemblyName>
+    <RootNamespace>Sepidar.MassFileNameChanger</RootNamespace>
+  </PropertyGroup>
+
+  <Import Project="$(SepidarProjectsRoot)\Framework\ProjectDotNet.targets" />
+  <Import Project="$(SepidarProjectsRoot)\Quality\ProjectReusableQuality.targets" />
+
+  <ItemGroup>
+    <Reference Include="Sepidar.Console">
+      <HintPath>..\..\Framework\Assemblies\Sepidar.Console.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
